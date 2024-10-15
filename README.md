@@ -11,7 +11,7 @@ Neden XProtocol.org yatırımı yaptım çünkü;
 3) Nod fiyatı ve buna karşılık gelen FDV bana uygun geldi, aşağıdaki tabloya göre ben Tier 2'den ve 9.970.625$ gibi düşük bir FDV ile almış oldum:
    ![Ekran görüntüsü 2024-10-15 225451](https://github.com/user-attachments/assets/f626fc3e-9334-48be-a882-a5fe9eeeec59)
 
-4) 2025 Q1'de dünyanın ilk DePin akıllı cep telefonunu piyasaya üsrecek olmaları
+4) 2025 Q1'de dünyanın ilk DePin akıllı cep telefonunu piyasaya sürecek olmaları
 
 Proje Linkleri:
 
