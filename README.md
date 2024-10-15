@@ -97,7 +97,7 @@ Assign Wallet tuşuna tıklayıp cüzdandan onay veriyoruz. Sonra cüzdan adresi
 
 Önemli Notlar:
 
-i) Ödüllerimizi xKICK tokeni cüzdanımıza import ederek görebiliriz. Ödüller 3-8 saatte bir güncelleniyor. Ödülleri claim edebilmek için cüzdanımızda Base ağında 0.005ETH bulundurmalısınız. 
+i) Ödüllerimizi xKICK tokeni cüzdanımıza import ederek görebiliriz. Ödüller 3-8 saatte bir güncelleniyor. Ödülleri claim edebilmek için cüzdanınızda Base ağında 0.005ETH bulundurmalısınız. 
    xKICK contract: 0xB51eFF119Ce6a238f67db7cA48431C3D319C7211
 
 ii) İmport ettiğiniz priv key ile noddaki priv key aynı mı kontrol etmek için xardian.yaml dosyasını kontrol edin. Bu dosyayı /root/.config/xardian.yaml dizininde bulabilirsiniz. Ya da 
