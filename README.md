@@ -74,7 +74,7 @@ komutunu girip sonra screen -S xardian komutunu girelim
 ```
 
 ## Delege edelim
-Eğer nod satın aldığını bir cüzdan varsa bu adımda o cüzdanı import etmemiz gerekiyor. Bunun için aşağıdaki kodda "cüzdan-priv-keyi" yazan yere kendi nod satın aldığınız cüzdanın priv keyini yazın!
+Eğer nod satın aldığınız bir cüzdan varsa bu adımda o cüzdanı import etmemiz gerekiyor. Bunun için aşağıdaki kodda "cüzdan-priv-keyi" yazan yere kendi nod satın aldığınız cüzdanın priv keyini yazın!
 
 ```
 ./runner.linux.amd64 import --key cüzdan-priv-keyi
