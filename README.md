@@ -21,6 +21,10 @@ X: https://x.com/xprotocol_org
 
 Discord: https://discord.gg/xprotocol
 
+Nod Satış Linki: https://xprotocol.org/node-sales
+
+Kaynak Döküman: https://docs.xprotocol.org/x-protocol-litepaper/overview/xardian-nodes/how-to-run-nodes
+
 Tabi her projede olduğu gibi kendiniz iyice araştırma yapıp öyle adım atın, yaptığım şey kesinlikle bir Yatırım Tavsiyesi Değildir!!!
 
 ### Sistem Gereksinimleri
