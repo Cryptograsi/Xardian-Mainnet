@@ -33,6 +33,7 @@ Tabi her projede olduğu gibi kendiniz iyice araştırma yapıp öyle adım atı
 4 GB RAM
 2 CPU
 60 GB SSD
+Ubuntu 22.04
 ```
 
 ## Öncelikle sistem paketlerini güncelleyelim
